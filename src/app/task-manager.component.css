@@ -1,0 +1,32 @@
+ontainer{
+    max-width:400px;
+    margin:40px auto;
+    padding:20px;
+    border-radius: 8px;
+    border:1px solid #ddd;
+    box-shadow:0 2px 5px
+    rgba(0,0,0,0.1)
+}
+input{
+    width:70;
+    padding:8px
+    margin;right: 5px;
+}
+button {
+    padding: 6px 10px;
+    cursor: pointer;
+}
+ul {
+    list-style:none;
+    padding: 0;
+    margin-top: 20px;
+}
+li{
+    display: flex;
+    justify-content:
+    space-between;
+    background: #f1f1f1;
+    padding:8px
+    margin; bottom :auto;
+    border-radius:4px;
+}  
