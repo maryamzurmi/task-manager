@@ -69,4 +69,17 @@
   .remove-btn:hover {
     background: #f3eeee;
   }
+  .task-input {
+    margin-bottom: 10px;
+  }
+  
+  input {
+    margin-right: 5px;
+    padding: 5px;
+  }
+  
+  button {
+    margin-left: 5px;
+  }
+  
   
